@@ -1,0 +1,23 @@
+body
+{
+    background-color: aqua;
+}
+
+#score
+{
+    font-size: 20px;
+    margin-right: 900px;
+}
+
+#timer
+{
+    font-size: 20px;
+    float:right;
+    margin-right: 120px;
+}
+
+#sketch
+{
+    color: rgb(112, 0, 0);
+    font-size: 16px;
+}
